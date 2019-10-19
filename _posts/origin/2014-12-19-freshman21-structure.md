@@ -2,12 +2,12 @@
 layout: post
 title: Theme structure
 modified: 2014-12-19
-categories: [articles, Howto]
+categories: 
+  - origin
 tags: 
   - structure
-comments: true
+comments: false
 ---
-
 
 ## 1.The structure of freshman21 theme
 

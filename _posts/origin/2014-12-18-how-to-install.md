@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to install this theme
-categories: articles
+categories: origin
 tags: [sample-post]
 comments: true
 description: How to install this theme, follow steps, very easy!
