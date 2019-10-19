@@ -1,12 +1,12 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
+title: Garin's Blog
+tagline: 持續記錄
+author: Garin
+email: crystallove0407@gmail.com
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog/
-url: "https://yulijia.net/freshman21" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://crystallove0407.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
@@ -14,15 +14,15 @@ twitter_username: yulijia
 github_username:  yulijia
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: 嗨！我將會持續在這網站更新我個人的研究紀錄及學習歷程，請大家不吝嗇指教。 # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/myPhoto.jpg"
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+default_locale: "cn" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
 locales:
     en:
@@ -44,23 +44,23 @@ locales:
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
     cn:
-      Aboutme: "关于我"
-      Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
-      Copyright_Notice: "版权声明"
+      Aboutme: "關於我"
+      Archives: "存檔"
+      Blogroll: "良師益友"        
+      Categories: "分類目錄"    
+      Copyright_Notice: "版權聲明"
       Recent_Posts: "近期文章"
-      Tags: "标签" 
-      Previous: "前一页"
-      Next: "后一页"
-      PostedInCategories: "目录:"   
-      Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
+      Tags: "標籤" 
+      Previous: "前一頁"
+      Next: "後一頁"
+      PostedInCategories: "目錄:"   
+      Taggedwith: "| 標籤:"
+      PostDate: "| 發表時間: "
       Google_search: "站内搜索"
-      Home: "首页"
-      About: "关于"
+      Home: "首頁"
+      About: "關於"
       Guestbook: "留言"
-      Subscribe: "订阅"
+      Subscribe: "訂閱"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"
